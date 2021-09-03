@@ -1,4 +1,4 @@
-## Benoit Clennett-Sirois [English here](/cv/english/)
+## Benoit Clennett-Sirois [En français ici](/cv/)
 
 
 ### Markdown
