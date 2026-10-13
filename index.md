@@ -2,9 +2,10 @@
 
 [English version here](english/index.md)
 
-Principal Software Engineer @ Nasdaq | Conception de plateformes d'agents IA en production (FastAPI, Python, Asyncio, GCP)
+**Principal Software Engineer @ Nasdaq**<br>
+Conception de plateformes d'agents IA en production (FastAPI, Python, Asyncio, GCP)
 
-Montréal | benoitcsirois@gmail.com | www.linkedin.com/in/benoitcsirois
+Montréal - benoitcsirois@gmail.com - www.linkedin.com/in/benoitcsirois
 
 ---
 
