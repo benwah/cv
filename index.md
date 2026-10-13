@@ -1,6 +1,6 @@
 # Benoit Clennett-Sirois
 
-[English version here](/)
+[English version here](english/index.md)
 
 **Principal Software Engineer @ Nasdaq | Conception de plateformes d'agents IA en production (FastAPI, Python, Asyncio, GCP)**
 
