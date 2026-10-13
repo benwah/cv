@@ -1,34 +1,30 @@
-## Benoit Clennett-Sirois [English here](/cv/english/)
+# Benoit Clennett-Sirois
 
+[English version here](/)
 
-### Markdown
+**Principal Software Engineer @ Nasdaq | Conception de plateformes d'agents IA en production (FastAPI, Python, Asyncio, GCP)**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Montréal | benoitcsirois@gmail.com | www.linkedin.com/in/benoitcsirois
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## Résumé
+Je développe des logiciels depuis 2009 et mon intérêt pour l'intelligence artificielle remonte tout aussi loin — j'ai construit mon premier réseau de neurones en 2011. Même lorsque j'occupe des rôles de direction, je reste un ingénieur dans l'âme et écris du code tous les jours. Mon travail a toujours mis l'accent sur des systèmes backend robustes, sécurisés et dotés d'une architecture réfléchie. 
 
-- Bulleted
-- List
+Récemment chez Nasdaq, j'ai dirigé l'architecture et l'ingénierie de la plateforme d'agents IA de notre unité commerciale. Mon rôle s'est concentré strictement sur le leadership technique plutôt que sur la gestion de personnel, en bâtissant des systèmes de production avec Python, FastAPI, asyncio et des outils LLM tels qu'Agno et Vertex AI. Une réalisation notable a consisté à concevoir un pipeline d'optimisation automatisé utilisant des algorithmes évolutionnaires et des ensembles de données synthétiques pour ajuster les performances, les invites (prompts) et les topologies d'équipe d'agents. 
 
-1. Numbered
-2. List
+**Stack et domaine de prédilection :** Python, FastAPI, asyncio, Rust, GCP, Vertex AI, moteurs RAG et architectures backend distribuées.
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+## Expérience
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Nasdaq
+*Temps plein permanent · 3 ans 10 mois (Montréal, Québec, Canada)*
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/benwah/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Ingénieur logiciel principal (mars 2025 - Présent)**
+* Direction du développement de la plateforme d'agents IA de l'unité commerciale depuis novembre 2025.
+* Développement de fonctionnalités basées sur les agents.
+* Utilisation d'Agno, de moteurs RAG et de Vertex AI / Google Agent Platform.
+* Stack backend : GCP, SQL, Cloud Run, FastAPI et Pydantic.
+* Optimisation automatisée des agents (incluant les
