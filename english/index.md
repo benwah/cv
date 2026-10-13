@@ -13,8 +13,6 @@ I have been building software since 2009, and my interest in AI goes back just a
 
 Most recently at Nasdaq, I led the architecture and engineering for our business unit's AI agent platform. My focus was strictly technical leadership rather than people management, building production systems with Python, FastAPI, asyncio, and LLM tooling like Agno and Vertex AI. One notable piece of work was building an automated optimization pipeline using evolutionary algorithms and synthetic datasets to tune agent team performance, prompts, and tool topologies. 
 
-Because our business unit is being sold and my team is affected, I am now looking to bring this deep technical execution and systems architecture to a new challenge.
-
 **Core Stack and Focus:** Python, FastAPI, asyncio, Rust, GCP, Vertex AI, RAG engines, and distributed backend architectures.
 
 ---
