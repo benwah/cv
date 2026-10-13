@@ -1,51 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <style>
-      .wrapper {
-        max-width: 800px;
-        margin: 0 auto;
-        padding: 40px 20px;
-      }
-      header {
-        display: none !important;
-      }
-      section {
-        width: 100% !important;
-        float: none !important;
-      }
-
-      /* Reset the main wrapper content area to block layout */
-      section {
-        display: block !important;
-      }
-
-      /* Force all paragraphs and header-adjacent lines to behave as normal left-aligned block text */
-      section h1 + p, 
-      section p {
-        display: block !important;
-        width: 100% !important;
-        float: none !important;
-        clear: both !important;
-        flex: none !important;
-        justify-content: initial !important;
-        text-align: left !important;
-        margin-bottom: 10px !important;
-      }
-
-      /* Specifically target inline spans or text splits inside the header area created by the theme */
-      section h1 ~ p {
-        display: block !important;
-        word-spacing: normal !important;
-      }
-    </style>
   </head>
   <body>
-    <div class="wrapper">
+    <div class="main-content" style="max-width: 800px; margin: 0 auto; padding: 40px 20px;">
       {{ content }}
     </div>
   </body>
