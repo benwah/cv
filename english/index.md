@@ -4,7 +4,7 @@
 
 **Principal Software Engineer @ Nasdaq | Building production AI agent platforms (FastAPI, Python, Asyncio, GCP)**
 
-Montreal[span_0](start_span)[span_0](end_span) | benoitcsirois@gmail.com[span_1](start_span)[span_1](end_span) | www.linkedin.com/in/benoitcsirois[span_2](start_span)[span_2](end_span)
+Montreal | benoitcsirois@gmail.com | www.linkedin.com/in/benoitcsirois
 
 ---
 
