@@ -9,9 +9,9 @@ Montreal | benoitcsirois@gmail.com | www.linkedin.com/in/benoitcsirois
 ---
 
 ## Summary
-I have been building software since 2009, and my interest in AI goes back just as far—I built my first neural net in 2011. Even when holding leadership titles, I stay an engineer at heart and write code every day. My focus has always been on backend systems that are robust, secure, and thoughtfully architected. 
+I have been building software since 2009. Even when holding leadership titles, I stay an engineer at heart and write code every day. My focus has always been on backend systems that are robust, secure, and thoughtfully architected. 
 
-Most recently at Nasdaq, I led the architecture and engineering for our business unit's AI agent platform. My focus was strictly technical leadership rather than people management, building production systems with Python, FastAPI, asyncio, and LLM tooling like Agno and Vertex AI. One notable piece of work was building an automated optimization pipeline using evolutionary algorithms and synthetic datasets to tune agent team performance, prompts, and tool topologies. 
+Most recently at Nasdaq, I spearheaded the architecture and engineering for our business unit's AI agent platform. My focus was strictly technical leadership, building production systems with Python, FastAPI, asyncio, and LLM tooling like Agno and Vertex AI. One notable piece of work was building an automated optimization pipeline using evolutionary algorithms and synthetic datasets to tune agent team performance, prompts, and tool topologies. 
 
 **Core Stack and Focus:** Python, FastAPI, asyncio, Rust, GCP, Vertex AI, RAG engines, and distributed backend architectures.
 
@@ -19,11 +19,11 @@ Most recently at Nasdaq, I led the architecture and engineering for our business
 
 ## Experience
 
-### Nasdaq
-*Permanent Full-time · 3 yrs 10 mos (Montreal, Quebec, Canada)*
+### Nasdaq / Metrio
+*Permanent Full-time · 5 yrs*
 
 **Principal Software Engineer (March 2025 - Present)**
-* Leading the business unit's AI agentic platform development since November 2025.
+* Spearheaded the business unit's AI agentic platform development since November 2025.
 * Agentic-based functionality development.
 * Utilizing Agno, RAG Engines, and Vertex AI / Google Agent Platform.
 * Backend stack: GCP, SQL, Cloud Run, FastAPI, and Pydantic.
@@ -31,8 +31,7 @@ Most recently at Nasdaq, I led the architecture and engineering for our business
 
 **Lead Software Engineer (January 2023 - March 2025)**
 
-### Metrio - Sustainability Reporting Software
-**Software Developer (January 2022 - February 2023)**
+**Software Developer at Metrio (January 2022 - February 2023)**
 *Gatineau, Quebec, Canada*
 
 ### Brûlerie Élixir
