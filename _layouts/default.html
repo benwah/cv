@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <style>
+      /* Override theme constraints to make the content full-width */
+      .wrapper {
+        max-width: 850px;
+        margin: 0 auto;
+        padding: 40px 20px;
+      }
+      header {
+        display: none; /* Hides the default theme sidebar */
+      }
+      section {
+        width: 100% !important;
+        float: none !important;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </body>
+</html>
