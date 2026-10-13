@@ -10,9 +10,9 @@ Montreal - benoitcsirois@gmail.com - www.linkedin.com/in/benoitcsirois
 ---
 
 ## Summary
-I have been building software since 2009. Even when holding leadership titles, I stay an engineer at heart and write code every day. My focus has always been on backend systems that are robust, secure, and thoughtfully architected. 
+I have been building software since 2009. Even when holding leadership titles, I stay a hands-on developer at heart and write code every day. My focus has always been on backend systems that are robust, secure, and thoughtfully architected. 
 
-Most recently at Nasdaq, I spearheaded the architecture and engineering for our business unit's AI agent platform. My focus was strictly technical leadership, building production systems with Python, FastAPI, asyncio, and LLM tooling like Agno and Vertex AI. One notable piece of work was building an automated optimization pipeline using evolutionary algorithms and synthetic datasets to tune agent team performance, prompts, and tool topologies. 
+Most recently at Nasdaq, I spearheaded the architecture and development of our business unit's AI agent platform. My focus was strictly technical leadership, building production systems with Python, FastAPI, asyncio, and LLM tooling like Agno and Vertex AI. One notable piece of work was building an automated optimization pipeline using evolutionary algorithms and synthetic datasets to tune agent team performance, prompts, and tool topologies. 
 
 **Core Stack and Focus:** Python, FastAPI, asyncio, Rust, GCP, Vertex AI, RAG engines, and distributed backend architectures.
 
