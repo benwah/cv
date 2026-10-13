@@ -17,11 +17,14 @@
       a:hover { border-bottom-color: #1f3a5f; }
       hr { border: 0; border-top: 1px solid #e3e6ea; margin: 2em 0; }
       em { color: #555; }
-      @media print { .main-content { padding: 0; max-width: none; } body { font-size: 11pt; } a { border: 0; } }
+      .pdf-btn { float: right; font: 14px/1 sans-serif; color: #1f3a5f; background: #fff; border: 1px solid #b5c0d0; border-radius: 4px; padding: 8px 12px; cursor: pointer; }
+      .pdf-btn:hover { background: #f1f4f8; }
+      @media print { .pdf-btn { display: none; } .main-content { padding: 0; max-width: none; } body { font-size: 11pt; } a { border: 0; } }
     </style>
   </head>
   <body>
     <div class="main-content">
+      <button class="pdf-btn" onclick="window.print()">{% if page.url contains 'english' %}Download as PDF{% else %}Télécharger en PDF{% endif %}</button>
       {{ content }}
     </div>
   </body>
