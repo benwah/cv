@@ -18,14 +18,18 @@
         width: 100% !important;
         float: none !important;
       }
-      /* Clean up the header layout to prevent awkward stretching */
       h1 {
         margin-bottom: 5px;
       }
-      /* Fix tables or grid artifacts if the theme treats text blocks as tables */
-      table, tr, td, th {
-        border: none !important;
-        background: transparent !important;
+      /* Force header text lines to stack normally and stop them from stretching apart */
+      section > p {
+        display: block !important;
+        width: 100% !important;
+        word-spacing: normal;
+      }
+      /* Fix any theme-specific flex/space-between behavior on paragraphs near the top */
+      section > p strong, section > p, section > p a {
+        justify-content: flex-start !important;
       }
     </style>
   </head>
